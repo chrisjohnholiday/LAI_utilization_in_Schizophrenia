@@ -1,10 +1,10 @@
-# LAI_utilization_in_Schizophrenia
-
-The Effect of Long Acting Injectables on Health Outcomes for Schizophrenia
+# The Effect of Long Acting Injectables on Health Outcomes for Schizophrenia
 
 
 Christopher Holiday
+
 Emily Matthews
+
 University of Toronto
 
 December 10th, 2020
