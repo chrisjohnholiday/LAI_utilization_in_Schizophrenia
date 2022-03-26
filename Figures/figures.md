@@ -2,7 +2,6 @@
 
 Figure 1: Average LAI Units Reimbursed Per 1000 Medicaid Enrollees (2013-2017)
 ![Alt text](Figure_1.png?raw=true "Title")
-
 Figure 2: Levels of LAI utilzation categorized
 
 Figure 3: Average Units of LAI Reimbursed Per 1000 enrollees (2011-2017)
