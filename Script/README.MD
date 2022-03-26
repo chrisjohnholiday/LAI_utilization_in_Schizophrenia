@@ -21,9 +21,3 @@ Creates graphs for exploratory data analysis
 by: Chris Holiday
 
 Runs models and outputs LaTeX
-
- # 4_models.R
-
-by: Chris Holiday
-
- Runs models and outputs LaTeX
