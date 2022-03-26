@@ -1,15 +1,23 @@
 # Figures generated for exploratory data analysis
-Figure 1:
+## Figure 1:
 ![Alt text](Figure_1.png?raw=true "Title")
-Figure 2:
+## Figure 2:
 ![Alt text](Figure_2.png?raw=true "Title")
-Figure 3:
+## Figure 3:
 ![Alt text](Figure_3.png?raw=true "Title")
-Figure 3:
+## Figure 3:
 ![Alt text](Figure_3.png?raw=true "Title")
-Figure 4:
+## Figure 4:
 ![Alt text](Figure_4.png?raw=true "Title")
-Figure 5:
+## Figure 5:
 ![Alt text](Figure_5.png?raw=true "Title")
-Figure 6:
+## Figure 6:
 ![Alt text](Figure_6.png?raw=true "Title")
+## Table 1:
+![Alt text](Table_1.png?raw=true "Title")
+## Table 2:
+![Alt text](Table_2.png?raw=true "Title")
+## Table 3:
+![Alt text](Table_3.png?raw=true "Title")
+## Table 4:
+![Alt text](Table_4.png?raw=true "Title")
